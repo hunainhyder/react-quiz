@@ -1,3 +1,3 @@
-# Quiz Web App
+# Quiz App
 
-Create and host your quiz online
+Create and hosts your quiz games
